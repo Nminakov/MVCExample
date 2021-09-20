@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let person = Person(firstName: "Jack", lastName: "Smith", gender: "male", location: Location(city: "CaliforniA", country: "USA"), age: 40, weight: 95.3, height: 175.3)
+    let person = Person(firstName: "Jack", lastName: "White", gender: "male", location: Location(city: "CaliforniA", country: "USA"), age: 40, weight: 95.3, height: 175.3)
 
     override func viewDidLoad() {
         super.viewDidLoad()
